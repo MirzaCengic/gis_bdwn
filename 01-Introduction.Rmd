@@ -2,3 +2,10 @@
 
 This is the first real chapter.
 
+In the first chapter you can say whatever.
+You can also do plots, like here.
+
+```{r echo=TRUE}
+plot(iris$Sepal.Length)
+```
+

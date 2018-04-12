@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
+title: "GIS intro tutorial"
+author: "Mirza Cengic"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,3 +15,4 @@ description: "Everything you need (and nothing more) to start a bookdown book."
 # Preface {-}
 
 This is the very first part of the book.
+Some text that I wrote here just to make sure it works...
