@@ -9,10 +9,10 @@ biblio-style: apalike
 link-citations: yes
 github-repo: seankross/bookdown-start
 url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+description: "Introduction to GIS stuff."
 ---
 
 # Preface {-}
 
 This is the very first part of the book.
-Some text that I wrote here just to make sure it works...
+Some text that I wrote here just to make sure it work...
